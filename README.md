@@ -33,3 +33,5 @@ https://babeljs.io/repl/
 
 
 https://webpack.js.org/
+
+状態変えるときはsetState
