@@ -61,3 +61,21 @@ npm install redux
 npm install react-redux
 ```
 
+reduxって？
+- action
+- reducer
+- store
+
+
+https://techtechmedia.com/cannnot-export-arrow-function/
+```
+[eslint]
+src\reducers\count.js
+  Line 4:1:  Assign arrow function to a variable before exporting as module default  import/no-anonymous-default-export
+
+```
+
+
+```
+Uncaught TypeError: react_dom_client__WEBPACK_IMPORTED_MODULE_1__.reder is not a function
+```
