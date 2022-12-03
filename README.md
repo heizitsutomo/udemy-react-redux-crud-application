@@ -24,3 +24,9 @@ JSXとJavaScript
 ```
 git push -u origin HEAD
 ```
+
+バベル
+トランスファイル
+JavaScriptへ変換
+
+https://babeljs.io/repl/
